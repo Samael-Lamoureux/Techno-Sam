@@ -1,0 +1,33 @@
+html, body {
+    background-color: rgb(20,20,20);
+    color: rgb(200,200,200);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Verdana, Sans-serif;
+}
+
+.top_rectangle {
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(200, 10, 10);
+    margin: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none
+}
+
+.menu {
+    position: absolute;
+    left: 45vw;
+    top: 4vh;
+    
+    
+}
+
+.title {
+    position: absolute;
+    left: 1vw;
+    top: 2vh
+}
