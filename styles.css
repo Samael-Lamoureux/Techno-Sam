@@ -49,3 +49,12 @@ a {
     top: 2vh;
 
 }
+
+.body {
+    position: absolute;
+    left: 2vw;
+}
+
+.linode {
+    color: green;
+}
