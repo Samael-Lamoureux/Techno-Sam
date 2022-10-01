@@ -1,0 +1,54 @@
+html, body {
+    background-color: rgb(20,20,20);
+    color: rgb(200,200,200);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Verdana, Sans-serif;
+}
+
+.top_rectangle {
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(200, 10, 10);
+    margin: 0;
+}
+
+a {
+    color: white;
+    text-decoration: none
+}
+
+.title {
+    position: absolute;
+    left: 1vw;
+    top: 2vh
+}
+
+.title2 {
+    position: absolute;
+    left: 1.5vw;
+    top: 10vh;
+}
+
+
+
+
+
+.repairs {
+    position: absolute;
+    left: 35vw;
+    top: 2vh;
+}
+
+.builds {
+    position: absolute;
+    left: 44vw;
+    top: 2vh;
+}
+
+.web {
+    position: absolute;
+    left: 54vw;
+    top: 2vh;
+
+}
