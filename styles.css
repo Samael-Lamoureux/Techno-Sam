@@ -31,12 +31,9 @@ a {
 }
 
 
-
-
-
 .repairs {
     position: absolute;
-    left: 35vw;
+    left: 30vw;
     top: 2vh;
 }
 
@@ -48,7 +45,7 @@ a {
 
 .web {
     position: absolute;
-    left: 54vw;
+    left: 60vw;
     top: 2vh;
 
 }
