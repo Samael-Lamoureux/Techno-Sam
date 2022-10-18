@@ -50,11 +50,92 @@ a {
 
 }
 
-.body {
-    position: absolute;
-    left: 2vw;
-}
-
 .linode {
     color: green;
+}
+
+.laptop {
+    height: 40vh;
+    width: 60vh;
+    position: absolute;
+    left: 60vw;
+    top: 30vh;
+}
+
+.reparations_title {
+    position: absolute;
+    top: 20vh;
+    left: 20vw;
+    text-decoration-line: underline;
+}
+
+.reparations_body {
+    position: absolute;
+    top: 25vh;
+    left: 20vw;
+}
+
+.index_title {
+    position: absolute;
+    top: 20vh;
+    left: 12vw;
+}
+
+.index_subtitle {
+    position: absolute;
+    top: 25vh;
+    left: 12vw;
+}
+
+.index_body {
+    position: absolute;
+    top: 33vh;
+    left: 12vw;
+
+}
+
+.face {
+    position: absolute;
+    top: 20vh;
+    left: 60vw;
+}
+
+.contacts {
+    position: absolute;
+    top: 2vh;
+    left: 60vw;
+}
+
+.build_title {
+    position: absolute;
+    top: 20vh;
+    left: 20vw;
+
+}
+
+.build_body {
+    position: absolute;
+    top: 25vh;
+    left: 20vw;
+
+}
+
+.pc_build_image {
+    height: 40vh;
+    width: 30vw;
+    position: absolute;
+    top: 30vh;
+    left: 60vw;
+}
+
+.contact_title {
+    position: absolute;
+    top: 20vh;
+    left: 20vw;
+}
+
+.contact_body {
+    position: absolute;
+    top: 25vh;
+    left: 20vw;
 }
